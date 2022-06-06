@@ -1,0 +1,8 @@
+我們使用wordpress來建設網站
+首先先下載XAMPP的軟體
+接著下載wordpress
+然後把wordpress解壓縮
+然後在XAMPP的Control Panel開啟Apache和MySQL
+然後去XAMPP的文件夾裡選取htdocs然後把wordpress放在看到dashboard的文件夾
+在網站搜索http://localhost/dashboard/
+然後點選phpMyAdmin
