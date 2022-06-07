@@ -6,3 +6,12 @@
 然後去XAMPP的文件夾裡選取htdocs然後把wordpress放在看到dashboard的文件夾
 在網站搜索http://localhost/dashboard/
 然後點選phpMyAdmin
+點選使用者
+新增使用者
+填寫帳號，主機確認是本機，輸入密碼，從新輸入密碼，勾選建立與使用者同名的資料庫並授予所有權限
+確認使用者帳號主機只能使用localhost
+在瀏覽器搜尋http://localhost/wordpress/
+就可以看到wordpress的安裝網站所需資料
+1.填寫網站標題，2.使用者名稱，3.密碼，4.確認密碼，勾選確認使用安全強度較弱的密碼，5.電子郵件地址，6.安裝wordpress
+就會出現登入wordpress帳號
+登入之後就可以正式來製作網站
